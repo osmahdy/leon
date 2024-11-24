@@ -1,0 +1,77 @@
+.portfolio {
+    padding-top: 100px;
+    padding-bottom: 100px;
+    background-color: #000000;
+}
+
+.portfolio .common-portfolio {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    font-size: 100px;
+    color: #fafafa;
+    margin: 40px 0px 0px;
+    font-weight: 800;
+    text-align: center;
+}
+
+.portfolio .common-portfolio+p {
+    font-size: 20px;
+    color: #505050;
+    margin: -30px 0px 0px;
+    text-align: center;
+}
+
+.portfolio .portfolio-content {
+    display: grid;
+    justify-content: center;
+    align-content: center;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 20px;
+    margin-top: 100px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+
+.portfolio .portfolio-content .card-img {
+    display: grid;
+    justify-content: center;
+    align-content: center;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.portfolio .portfolio-content .card-img img {
+    width: 300px;
+    height: 300px;
+}
+
+.portfolio .portfolio-content .card {
+    background-color: #ebeced;
+}
+
+.portfolio .portfolio-content .card .info h3 {
+    text-align: center;
+    font-weight: 800;
+}
+
+.portfolio .portfolio-content .card .info p {
+    text-align: center;
+    color: #6f6f6f;
+    line-height: 1.8;
+}
+
+@media (max-width: 767px) {
+    .portfolio .common-portfolio {
+        font-size: 70px;
+        margin: 0px;
+    }
+
+    .portfolio .common-portfolio+p {
+        font-size: 20px;
+        color: #505050;
+        margin: -30px 0px 0px;
+        text-align: center;
+    }
+}
