@@ -59,9 +59,8 @@ https://www.graphberry.com/item/leon-psd-agency-template
 
 ## Contact
 **Your Name**  
-Email: your.email@example.com  
-GitHub: [@yourusername](https://github.com/yourusername)  
-LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
+Email: os6sooma@gmail.com  
+GitHub: [@osmahdy](https://github.com/osmahdy)  
 
 ---
 
