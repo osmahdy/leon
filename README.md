@@ -46,8 +46,7 @@ Simply clone, customize, and deploy!
 
 ## Demo
 Here are the link to preview the project:
-
-https://osmahdy.github.io/Animo/
+https://osmahdy.github.io/leon/
 
 ---
 
