@@ -12,7 +12,7 @@ My First Template Mastering Responsive Web Design
 ---
 
 ## Overview
-This project is a **responsive HTML and CSS** webpage designed to demonstrate a clean and modern user interface. It serves as a **[describe purpose: portfolio, landing page, e-commerce page, etc.]** and showcases effective use of semantic HTML and well-structured CSS.
+This project is a **responsive HTML and CSS** webpage designed to demonstrate a clean and modern user interface. It serves as a **company Website** and showcases effective use of semantic HTML and well-structured CSS.
 
 ### Goals
 - Provide an elegant and responsive layout.
